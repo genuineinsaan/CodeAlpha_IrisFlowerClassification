@@ -58,7 +58,7 @@ This project is part of my internship at **CodeAlpha**. The goal of this task wa
 ## 📸 Demo
 
 A quick walkthrough of this project is available on my [LinkedIn post](#)  
-📂 GitHub: [Link to this repository](#)
+📂 GitHub: [[Link to this repository]](https://github.com/genuineinsaan/CodeAlpha_IrisFlowerClassification.git)(#)
 
 ---
 
